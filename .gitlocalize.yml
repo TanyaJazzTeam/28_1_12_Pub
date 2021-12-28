@@ -2,4 +2,4 @@ pretranslate:
   paths:
   - source: .
     include:
-      - "checkpoint.ipynb"
+      - "07_1_09.md"

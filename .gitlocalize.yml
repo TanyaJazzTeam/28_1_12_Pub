@@ -1,6 +1,5 @@
-
-synchronize:
+pretranslate:
   paths:
   - source: .
-    exclude:
-        - "07_1_09.md"
+    include:
+      -"06.09.json"
